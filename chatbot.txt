@@ -1,0 +1,7 @@
+Hello! I can do the following tasks:
+1. Solve arithmetic problems (e.g., "Solve 5 + 3").
+2. Provide weather updates for your city (e.g., "Weather in London").
+3. Answer basic general knowledge questions (e.g., "Who is the president of India?").
+
+To know what I can do, you can ask me: "What can you do?"
+What can you do: I can chat with you, solve math problems, provide weather updates, and answer general knowledge questions. Try asking 'Solve 5 + 3', 'Weather London', or 'Who is the president of India?'.
