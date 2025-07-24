@@ -14,7 +14,7 @@ Welcome to my project repository from the CodeAlpha internship! This repo contai
 - Tracks previously guessed letters and remaining attempts.
 - Ends game with success or failure message.
 
-**Concepts Used:** `random`, loops, conditionals, sets, string manipulation.
+**Concepts Used:** random, loops, conditionals, sets, string manipulation.
 
 ---
 
@@ -44,5 +44,3 @@ Welcome to my project repository from the CodeAlpha internship! This repo contai
 - Friendly greetings and fallback responses.
 
 **Concepts Used:** `nltk`, `requests`, `re`, string processing, API handling, logic flow control.
-
----
