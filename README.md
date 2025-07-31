@@ -3,7 +3,7 @@ Welcome to my project repository from the CodeAlpha internship! This repo contai
 
 ---
 
-## 📁 Projects Overview
+## 📁 Projects Description
 
 ### 🔹 1. Hangman Game (`hangman_game.py`)
 **Description:** A terminal-based word guessing game where the player must guess the hidden word letter by letter.
